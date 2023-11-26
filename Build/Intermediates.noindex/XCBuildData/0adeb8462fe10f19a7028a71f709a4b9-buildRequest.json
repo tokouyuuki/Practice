@@ -1,0 +1,65 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "725a66f1ba049794214ed3e4d22c4dd80ba3dc6aaf539b3b49121629d735092d"
+    }
+  ],
+  "containerPath" : "/Users/tokouyuuki/Desktop/SwiftDevelopment/practice/practice.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/tokouyuuki/Desktop/SwiftDevelopment/practice/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/tokouyuuki/Desktop/SwiftDevelopment/practice/Build/Products",
+      "derivedDataPath" : "/Users/tokouyuuki/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/tokouyuuki/Library/Developer/Xcode/DerivedData/practice-datxxfntinjbujhhdoazioeomrbp/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/tokouyuuki/Library/Developer/Xcode/DerivedData/practice-datxxfntinjbujhhdoazioeomrbp/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/tokouyuuki/Desktop/SwiftDevelopment/practice/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone14,5",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "FBB37920-8AD9-4156-93AE-EB439B545EFC",
+          "TARGET_DEVICE_MODEL" : "iPhone14,5",
+          "TARGET_DEVICE_OS_VERSION" : "15.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

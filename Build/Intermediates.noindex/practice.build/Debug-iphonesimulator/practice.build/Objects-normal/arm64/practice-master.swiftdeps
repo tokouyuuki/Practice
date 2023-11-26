@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1701001932, 855913162]
+build_end_time: [1701001933, 186810016]
+inputs:
+  "/Users/tokouyuuki/Desktop/SwiftDevelopment/practice/practice/AppDelegate.swift": [1700876976, 420898437]
+  "/Users/tokouyuuki/Desktop/SwiftDevelopment/practice/practice/PickUpScrollView.swift": [1700893091, 795194625]
+  "/Users/tokouyuuki/Desktop/SwiftDevelopment/practice/practice/SceneDelegate.swift": [1700876976, 423976421]
+  "/Users/tokouyuuki/Desktop/SwiftDevelopment/practice/practice/ViewController.swift": [1701001932, 659708023]
