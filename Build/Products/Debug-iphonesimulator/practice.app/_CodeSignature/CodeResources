@@ -22,7 +22,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		p/BX3FxDXIduOb9hyjdVqcLZTyo=
+		ZezQeNsSKD0LD86rRIZCRXUscOY=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -35,10 +35,6 @@
 		<key>Info.plist</key>
 		<data>
 		mAgxoBqz9oT+/DLb3RLy+SylzLM=
-		</data>
-		<key>PickUpScrollView.nib</key>
-		<data>
-		Y/K068DDbluJkcI1JqRRHK7/O/s=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -79,7 +75,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			esyGXpjPUjMpVAqBxRW/K7DCe1fe8M3/6Z8d7dBS+Ao=
+			WMScYD/SICooX6j20htBHd4kLPM7RAeL81eh6dtThhQ=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -94,13 +90,6 @@
 			<key>hash2</key>
 			<data>
 			MkDih3IRL3qz2101Ck7WdknPJa3FWqMHPCdBAcuughw=
-			</data>
-		</dict>
-		<key>PickUpScrollView.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZQ9ncFIWAXGsqa2i4rbOOWKHsMDn7xdAKHgDEzZfh1g=
 			</data>
 		</dict>
 	</dict>

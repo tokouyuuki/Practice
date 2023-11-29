@@ -230,8 +230,9 @@ SWIFT_CLASS("_TtC8practice11AppDelegate")
 
 @class NSCoder;
 
-SWIFT_CLASS("_TtC8practice16PickUpScrollView")
-@interface PickUpScrollView : UIScrollView
+SWIFT_CLASS("_TtC8practice18CollectionViewCell")
+@interface CollectionViewCell : UICollectionViewCell
+- (void)awakeFromNib;
 - (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -251,17 +252,13 @@ SWIFT_CLASS("_TtC8practice13SceneDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class UILabel;
-@class UIView;
+@class UICollectionView;
 @class NSString;
 @class NSBundle;
 
 SWIFT_CLASS("_TtC8practice14ViewController")
 @interface ViewController : UIViewController
-@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified campaignLavel;
-@property (nonatomic, weak) IBOutlet UIScrollView * _Null_unspecified imageScrollView;
-@property (nonatomic, weak) IBOutlet UIView * _Null_unspecified wholeScrollView;
-@property (nonatomic, weak) IBOutlet UIScrollView * _Null_unspecified wholeScroll;
+@property (nonatomic, weak) IBOutlet UICollectionView * _Null_unspecified collectionView;
 - (void)viewDidLoad;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
